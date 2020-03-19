@@ -60,9 +60,9 @@ Create migration:
 
 ## Create a project admin
 
-`python manage.py createsuperuser`
-username: admin
-email address: example@gmail.com
+`python manage.py createsuperuser` \
+username: admin \
+email address: example@gmail.com \
 password: 123456
 
 ## Run the application on localhost
